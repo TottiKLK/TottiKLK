@@ -3,19 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package programacion;
+package java_programacion;
 
-public class Programacion {
-
+/**
+ *
+ * @author A8-PC63
+ */
+public class CLASES_JAVA {
     public static void main(String[] args) {
-        System.out.println("Hola mundo");
         
-                
-        }   
-        int[] array1 = {1,2,3};
-        for 
-        
-        }
     }
-        for
 }
